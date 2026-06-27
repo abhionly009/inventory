@@ -4,7 +4,6 @@ import com.agh.inventory.entity.Inventory;
 import com.agh.inventory.model.InventoryRequest;
 import com.agh.inventory.service.InventoryService;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.http.MediaType;
